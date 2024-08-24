@@ -1,9 +1,17 @@
-# Projeto Calmaria SPA implementado no curso SASS e CSS.
-Objetivo: Utilizar o __SASS__ para criar estilizações impressionantes.
+# Curso de SASS e CSS: estilizando um site
+## Projeto do site Calmaria SPA
+### Objetivo: Implementar o site do Calmaria SPA, utilizando HTML, CSS e SASS.
 
-## Figma do projeto
+* Aprenda como utilizar os recursos do __pré-processador SASS__ em seus projetos.
+* Crie folhas de estilos de fácil leitura.
+* Crie __códigos reutilizáveis__ com mixins, @extend e parent selector.
+* Modularize as folhas de estilo com __partial__.
+* __Utilize as variáveis__ para colorir e ajustar o layout de uma landing page (site).
+* Faça __operações matemáticas__ para construir layouts.
+
+## Figma do projeto:
 https://www.figma.com/design/OCTufveMJNvpfVZg0AwAEe/Calmaria-Spa-%7C-Curso-Sass?node-id=118-2732
 
-## Artigos Alura
+## Artigos Alura:
 
-## Outros artigos e links importantes
+## Outros artigos e links importantes:
