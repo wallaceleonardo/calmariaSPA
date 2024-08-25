@@ -13,5 +13,6 @@
 https://www.figma.com/design/OCTufveMJNvpfVZg0AwAEe/Calmaria-Spa-%7C-Curso-Sass?node-id=118-2732
 
 ## Artigos Alura:
+### [Construa um CSS mágico com variáveis nativas](https://www.alura.com.br/artigos/construa-css-magico-variaveis-nativas)
 
 ## Outros artigos e links importantes:
