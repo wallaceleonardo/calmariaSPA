@@ -16,3 +16,4 @@ https://www.figma.com/design/OCTufveMJNvpfVZg0AwAEe/Calmaria-Spa-%7C-Curso-Sass?
 ### [Construa um CSS mágico com variáveis nativas](https://www.alura.com.br/artigos/construa-css-magico-variaveis-nativas)
 
 ## Outros artigos e links importantes:
+### [Calculations are how Sass represents the calc() function](https://sass-lang.com/documentation/values/calculations/)
